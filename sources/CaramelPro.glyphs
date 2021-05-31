@@ -1,5 +1,5 @@
 {
-.appVersion = "1356";
+.appVersion = "1342";
 classes = (
 {
 code = "A.001 Aacute.001 Abreve.001 Abreveacute.001 Abrevedotbelow.001 Abrevegrave.001 Abrevehookabove.001 Abrevetilde.001 Acaron.001 Acircumflex.001 Acircumflexacute.001 Acircumflexdotbelow.001 Acircumflexgrave.001 Acircumflexhookabove.001 Acircumflextilde.001 Adblgrave.001 Adieresis.001 Adotbelow.001 Agrave.001 Ahookabove.001 Ainvertedbreve.001 Amacron.001 Aogonek.001 Aring.001 Aringacute.001 Atilde.001 AE.001 AEacute.001 B.001 C.001 Cacute.001 Ccaron.001 Ccedilla.001 Ccircumflex.001 Cdotaccent.001 D.001 DZcaron.001 Eth.001 Dcaron.001 Dcroat.001 Dzcaron.001 E.001 Eacute.001 Ebreve.001 Ecaron.001 Ecircumflex.001 Ecircumflexacute.001 Ecircumflexdotbelow.001 Ecircumflexgrave.001 Ecircumflexhookabove.001 Ecircumflextilde.001 Edblgrave.001 Edieresis.001 Edotaccent.001 Edotbelow.001 Egrave.001 Ehookabove.001 Einvertedbreve.001 Emacron.001 Eogonek.001 Etilde.001 F.001 G.001 Gbreve.001 Gcaron.001 Gcircumflex.001 Gcommaaccent.001 Gdotaccent.001 H.001 Hbar.001 Hcircumflex.001 I.001 Iacute.001 Ibreve.001 Icaron.001 Icircumflex.001 Idblgrave.001 Idieresis.001 Idotaccent.001 Idotbelow.001 Igrave.001 Ihookabove.001 Iinvertedbreve.001 Imacron.001 Iogonek.001 Itilde.001 J.001 Jcircumflex.001 K.001 Kcommaaccent.001 L.001 LJ.001 Lacute.001 Lcaron.001 Lcommaaccent.001 Ldot.001 Lj.001 Lslash.001 M.001 N.001 NJ.001 Nacute.001 Ncaron.001 Ncommaaccent.001 Eng.001 Nj.001 Ntilde.001 O.001 Oacute.001 Obreve.001 Ocaron.001 Ocircumflex.001 Ocircumflexacute.001 Ocircumflexdotbelow.001 Ocircumflexgrave.001 Ocircumflexhookabove.001 Ocircumflextilde.001 Odblgrave.001 Odieresis.001 Odieresismacron.001 Odotaccentmacron.001 Odotbelow.001 Ograve.001 Ohookabove.001 Ohorn.001 Ohornacute.001 Ohorndotbelow.001 Ohorngrave.001 Ohornhookabove.001 Ohorntilde.001 Ohungarumlaut.001 Oinvertedbreve.001 Omacron.001 Oogonek.001 Oslash.001 Oslashacute.001 Otilde.001 Otildemacron.001 OE.001 P.001 Thorn.001 Q.001 R.001 Racute.001 Rcaron.001 Rcommaaccent.001 Rdblgrave.001 Rinvertedbreve.001 S.001 Sacute.001 Scaron.001 Scedilla.001 Scircumflex.001 Scommaaccent.001 Germandbls.001 Schwa.001 T.001 Tbar.001 Tcaron.001 Tcedilla.001 Tcommaaccent.001 U.001 Uacute.001 Ubreve.001 Ucaron.001 Ucircumflex.001 Udblgrave.001 Udieresis.001 Udieresisacute.001 Udieresiscaron.001 Udieresisgrave.001 Udieresismacron.001 Udotbelow.001 Ugrave.001 Uhookabove.001 Uhorn.001 Uhornacute.001 Uhorndotbelow.001 Uhorngrave.001 Uhornhookabove.001 Uhorntilde.001 Uhungarumlaut.001 Uinvertedbreve.001 Umacron.001 Uogonek.001 Uring.001 Utilde.001 V.001 W.001 Wacute.001 Wcircumflex.001 Wdieresis.001 Wgrave.001 X.001 Y.001 Yacute.001 Ycircumflex.001 Ydieresis.001 Ydotbelow.001 Ygrave.001 Yhookabove.001 Ymacron.001 Ytilde.001 Z.001 Zacute.001 Zcaron.001 Zdotaccent.001 a.001 aacute.001 abreve.001 abreveacute.001 abrevedotbelow.001 abrevegrave.001 abrevehookabove.001 abrevetilde.001 acaron.001 acircumflex.001 acircumflexacute.001 acircumflexdotbelow.001 acircumflexgrave.001 acircumflexhookabove.001 acircumflextilde.001 adblgrave.001 adieresis.001 adotbelow.001 agrave.001 ahookabove.001 ainvertedbreve.001 amacron.001 aogonek.001 aring.001 aringacute.001 atilde.001 ae.001 aeacute.001 b.001 c.001 cacute.001 ccaron.001 ccedilla.001 ccircumflex.001 cdotaccent.001 d.001 eth.001 dcaron.001 dcroat.001 dzcaron.001 e.001 eacute.001 ebreve.001 ecaron.001 ecircumflex.001 ecircumflexacute.001 ecircumflexdotbelow.001 ecircumflexgrave.001 ecircumflexhookabove.001 ecircumflextilde.001 edblgrave.001 edieresis.001 edotaccent.001 edotbelow.001 egrave.001 ehookabove.001 einvertedbreve.001 emacron.001 eogonek.001 etilde.001 schwa.001 f.001 g.001 gbreve.001 gcaron.001 gcircumflex.001 gcommaaccent.001 gdotaccent.001 h.001 hbar.001 hcircumflex.001 i.001 idotless.001 iacute.001 ibreve.001 icaron.001 icircumflex.001 idblgrave.001 idieresis.001 idotaccent.001 idotbelow.001 igrave.001 ihookabove.001 iinvertedbreve.001 imacron.001 iogonek.001 itilde.001 j.001 jdotless.001 jcircumflex.001 k.001 kcommaaccent.001 kgreenlandic.001 l.001 lacute.001 lcaron.001 lcommaaccent.001 ldot.001 lj.001 lslash.001 m.001 n.001 nacute.001 ncaron.001 ncommaaccent.001 eng.001 nj.001 ntilde.001 o.001 oacute.001 obreve.001 ocaron.001 ocircumflex.001 ocircumflexacute.001 ocircumflexdotbelow.001 ocircumflexgrave.001 ocircumflexhookabove.001 ocircumflextilde.001 odblgrave.001 odieresis.001 odieresismacron.001 odotaccentmacron.001 odotbelow.001 ograve.001 ohookabove.001 ohorn.001 ohornacute.001 ohorndotbelow.001 ohorngrave.001 ohornhookabove.001 ohorntilde.001 ohungarumlaut.001 oinvertedbreve.001 omacron.001 oogonek.001 oslash.001 oslashacute.001 otilde.001 otildemacron.001 oe.001 p.001 thorn.001 q.001 r.001 racute.001 rcaron.001 rcommaaccent.001 rdblgrave.001 rinvertedbreve.001 s.001 sacute.001 scaron.001 scedilla.001 scircumflex.001 scommaaccent.001 t.001 tbar.001 tcaron.001 tcedilla.001 tcommaaccent.001 u.001 uacute.001 ubreve.001 ucaron.001 ucircumflex.001 udblgrave.001 udieresis.001 udieresisacute.001 udieresiscaron.001 udieresisgrave.001 udieresismacron.001 udotbelow.001 ugrave.001 uhookabove.001 uhorn.001 uhornacute.001 uhorndotbelow.001 uhorngrave.001 uhornhookabove.001 uhorntilde.001 uhungarumlaut.001 uinvertedbreve.001 umacron.001 uogonek.001 uring.001 utilde.001 v.001 w.001 wacute.001 wcircumflex.001 wdieresis.001 wgrave.001 x.001 y.001 yacute.001 ycircumflex.001 ydieresis.001 ydotbelow.001 ygrave.001 yhookabove.001 ymacron.001 ytilde.001 z.001 zacute.001 zcaron.001 zdotaccent.001 f_f.001 f_f_i.001 f_f_l.001 fi.001 fl.001 cedi.001 colonsign.001 franc.001 guarani.001 kip.001 lira.001 liraTurkish.001 manat.001 naira.001 peseta.001 peso.001 ruble.001 rupeeIndian.001 sterling.001 won.001 ";
@@ -168470,6 +168470,94 @@ width = 508;
 }
 );
 note = th;
+},
+{
+color = 11;
+glyphname = atingacute;
+lastChange = "2021-05-31 22:10:56 +0000";
+layers = (
+{
+layerId = "D7866281-830A-4E76-BB32-392A4BC3306E";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = Aeacute;
+lastChange = "2021-05-31 22:10:56 +0000";
+layers = (
+{
+layerId = "D7866281-830A-4E76-BB32-392A4BC3306E";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = Odotmacron;
+lastChange = "2021-05-31 22:10:56 +0000";
+layers = (
+{
+layerId = "D7866281-830A-4E76-BB32-392A4BC3306E";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = odotmacron;
+lastChange = "2021-05-31 22:10:56 +0000";
+layers = (
+{
+layerId = "D7866281-830A-4E76-BB32-392A4BC3306E";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = Acircumflextlde;
+lastChange = "2021-05-31 22:10:56 +0000";
+layers = (
+{
+layerId = "D7866281-830A-4E76-BB32-392A4BC3306E";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = acircumflextlde;
+lastChange = "2021-05-31 22:10:56 +0000";
+layers = (
+{
+layerId = "D7866281-830A-4E76-BB32-392A4BC3306E";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = Acircumflexdotabelow;
+lastChange = "2021-05-31 22:10:56 +0000";
+layers = (
+{
+layerId = "D7866281-830A-4E76-BB32-392A4BC3306E";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = acircumflexdotabelow;
+lastChange = "2021-05-31 22:10:56 +0000";
+layers = (
+{
+layerId = "D7866281-830A-4E76-BB32-392A4BC3306E";
+width = 600;
+}
+);
 }
 );
 instances = (
