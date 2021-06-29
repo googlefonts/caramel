@@ -15,10 +15,52 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = ss00;
 }
 );
-copyright = "©2004-2021 Robert E. Leuschke";
+copyright = "Copyright 2004-2021 The Caramel Royale Project Authors (https://github.com/googlefonts/caramel)";
+customParameters = (
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = GOOG;
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = glyphOrder;
+value = (
+.notdef,
+CR,
+NULL,
+space,
+nbspace
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
+}
+);
 date = "2021-04-19 22:27:39 +0000";
 designer = "Robert E. Leuschke";
-designerURL = "http://www.typesetit.com";
+designerURL = www.typesetit.com;
 disablesNiceNames = 1;
 familyName = CaramelPro;
 featurePrefixes = (
@@ -117,6 +159,96 @@ xHeight = 500;
 }
 );
 glyphs = (
+{
+color = 0;
+glyphname = .notdef;
+lastChange = "2021-04-19 21:32:36 +0000";
+layers = (
+{
+layerId = "D7866281-830A-4E76-BB32-392A4BC3306E";
+paths = (
+{
+closed = 1;
+nodes = (
+"379 0 LINE",
+"379 650 LINE",
+"50 650 LINE",
+"50 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"212 287 LINE",
+"309 64 LINE",
+"115 64 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"104 534 LINE",
+"193 330 LINE",
+"104 129 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"231 330 LINE",
+"321 537 LINE",
+"321 127 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"119 584 LINE",
+"305 584 LINE",
+"212 374 LINE"
+);
+}
+);
+width = 429;
+}
+);
+},
+{
+color = 0;
+glyphname = CR;
+lastChange = "2021-04-19 21:32:36 +0000";
+layers = (
+{
+layerId = "D7866281-830A-4E76-BB32-392A4BC3306E";
+width = 320;
+}
+);
+unicode = 000D;
+},
+{
+color = 0;
+glyphname = space;
+lastChange = "2021-04-19 21:32:36 +0000";
+layers = (
+{
+layerId = "D7866281-830A-4E76-BB32-392A4BC3306E";
+width = 199;
+}
+);
+unicode = 0020;
+},
+{
+color = 0;
+glyphname = nbspace;
+lastChange = "2021-04-19 21:32:36 +0000";
+layers = (
+{
+layerId = "D7866281-830A-4E76-BB32-392A4BC3306E";
+width = 199;
+}
+);
+unicode = 00A0;
+},
 {
 color = 0;
 glyphname = A;
@@ -153682,42 +153814,6 @@ unicode = 27E9;
 },
 {
 color = 0;
-glyphname = space;
-lastChange = "2021-04-19 21:32:36 +0000";
-layers = (
-{
-layerId = "D7866281-830A-4E76-BB32-392A4BC3306E";
-width = 199;
-}
-);
-unicode = 0020;
-},
-{
-color = 0;
-glyphname = nbspace;
-lastChange = "2021-04-19 21:32:36 +0000";
-layers = (
-{
-layerId = "D7866281-830A-4E76-BB32-392A4BC3306E";
-width = 199;
-}
-);
-unicode = 00A0;
-},
-{
-color = 0;
-glyphname = CR;
-lastChange = "2021-04-19 21:32:36 +0000";
-layers = (
-{
-layerId = "D7866281-830A-4E76-BB32-392A4BC3306E";
-width = 320;
-}
-);
-unicode = 000D;
-},
-{
-color = 0;
 glyphname = DEL;
 lastChange = "2021-04-19 21:32:36 +0000";
 layers = (
@@ -153727,60 +153823,6 @@ width = 667;
 }
 );
 unicode = 007F;
-},
-{
-color = 0;
-glyphname = .notdef;
-lastChange = "2021-04-19 21:32:36 +0000";
-layers = (
-{
-layerId = "D7866281-830A-4E76-BB32-392A4BC3306E";
-paths = (
-{
-closed = 1;
-nodes = (
-"379 0 LINE",
-"379 650 LINE",
-"50 650 LINE",
-"50 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"212 287 LINE",
-"309 64 LINE",
-"115 64 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"104 534 LINE",
-"193 330 LINE",
-"104 129 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"231 330 LINE",
-"321 537 LINE",
-"321 127 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"119 584 LINE",
-"305 584 LINE",
-"212 374 LINE"
-);
-}
-);
-width = 429;
-}
-);
 },
 {
 color = 0;
@@ -168568,8 +168610,9 @@ instanceInterpolations = {
 name = Regular;
 }
 );
-manufacturer = "TypeSETit, LLC";
+manufacturer = "Robert E. Leuschke";
+manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }
