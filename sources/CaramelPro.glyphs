@@ -155,6 +155,7 @@ verticalStems = (
 39,
 52
 );
+weightValue = 400;
 xHeight = 500;
 }
 );
@@ -168604,6 +168605,7 @@ width = 600;
 );
 instances = (
 {
+interpolationWeight = 400;
 instanceInterpolations = {
 "D7866281-830A-4E76-BB32-392A4BC3306E" = 1;
 };
