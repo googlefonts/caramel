@@ -3,7 +3,7 @@
 
 The Caramel Family is a fun, hand lettered script with three variations that are combined in the latest version of the font. Use alternates and style sets to customize your work.
 
-![Sample Image](documentation/image1.png)
+![Sample Image](Documentation/image1.png)
 
 ## Building the Fonts
 
